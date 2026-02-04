@@ -11,11 +11,8 @@ Sistema web moderno para gestão de checklists de segurança de empilhadeiras, d
 
 - [Visão Geral](#-visão-geral)
 - [Funcionalidades](#-funcionalidades)
-- [Arquitetura](#-arquitetura)
-- [Tecnologias](#-tecnologias)
 - [Pré-requisitos](#-pré-requisitos)
 - [Instalação](#-instalação)
-- [Configuração](#-configuração)
 - [Uso](#-uso)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Segurança](#-segurança)
